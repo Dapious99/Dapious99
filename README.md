@@ -1,7 +1,10 @@
-## Hi there 👋
+ 👋 Hi there, I am Omotosho Kamalideen  
 
-<!--
-**Dapious99/Dapious99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile! 😊
+
+I'm a software developer from Nigeria. I enjoy solving problems and building innovative solutions.  
+You can find me on LinkedIn: <a href='https://www.linkedin.com/in/kamalideen-omotosho-a50135270/' target='_blank'>@Kamalideen Omotosho</a>  
+Check out my <a href='https://omotosho-kamalideen.vercel.app' target='_blank'>Portfolio</a>.
 
 Here are some ideas to get you started:
 
