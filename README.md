@@ -8,6 +8,7 @@ Check out my <a href='https://omotosho-kamalideen.vercel.app' target='_blank'>Po
 
  🔥 A little more about me...
 
+```js
 let myProfile = {
   openToWork: true,
   lookingFor: "Frontend Developer" || "Mobile Developer",
